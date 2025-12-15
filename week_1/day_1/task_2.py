@@ -1,0 +1,5 @@
+print("Type a number:")
+x = input()
+print(f"{x} before casting {type(x)}")
+x = float(x)
+print(f"{x} after casting {type(x)}")
