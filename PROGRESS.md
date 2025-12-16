@@ -6,7 +6,7 @@
 
 ## Week 1
 - **Day 1 (15 Dec 2025):** Repository setup, documentation finalized and Python basics — variable swapping, type casting, decimal precision, and time conversion
-- **Day 2:** 
+- **Day 2 (16 Dec 2025):** Control flow and logic — short-circuiting, truthiness, floating-point precision, ternary expressions
 - **Day 3:** 
 - **Day 4:** 
 - **Day 5:** 
