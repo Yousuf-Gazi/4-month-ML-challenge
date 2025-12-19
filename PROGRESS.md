@@ -12,7 +12,7 @@
 - **Day 4 (18 Dec 2025):** Lists, References & Comprehensions. Explored mutable object references, list copying, slicing mechanics, stack behavior, and list comprehensions
 - **Day 5 (19 Dec 2025):** Dictionaries — safe key access with `get()`, frequency counting, and dictionary merging
 - **Day 6 (20 Dec 2025):** Functions — argument passing, return values, defaults, and pure logic
-- **Day 7:** Weekly review and recap
+- **Day 7 (21 Dec 2025):** Error handling — exceptions, multiple handlers, cleanup, and custom raises
 
 ---
 
