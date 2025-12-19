@@ -10,7 +10,7 @@
 - **Day 2 (16 Dec 2025):** Control flow and logic — short-circuiting, truthiness, floating-point precision, ternary expressions
 - **Day 3 (17 Dec 2025):** Loop fundamentals — infinite loops, accumulator pattern, continue control flow, and string iteration
 - **Day 4 (18 Dec 2025):** Lists, References & Comprehensions. Explored mutable object references, list copying, slicing mechanics, stack behavior, and list comprehensions
-- **Day 5:**
+- **Day 5 (19 Dec 2025):** Dictionaries — safe key access with `get()`, frequency counting, and dictionary merging
 - **Day 6:**
 - **Day 7:** Weekly review and recap
 
